@@ -1,0 +1,1 @@
+/home/kosmosys/.config/omarchy/current/theme/neovim.lua

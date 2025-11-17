@@ -1,0 +1,8 @@
+jdk-openjdk
+gradle
+postgresql
+dbeaver
+mongodb-bin
+brave-bin
+gemini-cli
+mongodb-compass-bin

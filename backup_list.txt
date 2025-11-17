@@ -1,0 +1,6 @@
+# List of files and folders to backup
+# Each line should contain an absolute path or a path relative to the user's home directory (~)
+
+~/.config/nvim
+~/.config/alacritty
+~/.config/hypr
