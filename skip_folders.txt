@@ -1,0 +1,14 @@
+ibus/
+fcitx/
+fcitx5/conf/cached_layouts
+chromium/
+Typora/
+pulse/
+dconf/
+yay/
+nvim/.gitignore
+nvim/.neoconf.json
+nvim/lazy-lock.json
+nvim/lazyvim.json
+nvim/LICENSE
+nvim/README.md
