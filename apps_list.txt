@@ -6,3 +6,4 @@ mongodb-bin
 brave-bin
 gemini-cli
 mongodb-compass-bin
+obsidian
